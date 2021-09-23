@@ -1,0 +1,54 @@
+body {
+  background-position: center right; 
+  background-repeat: no-repeat;
+  background-color: silver;
+  
+}
+h1 {
+  text-align: center;
+  font-size: 65px; 
+  margin: 0;
+  padding: 0;
+  font-variant: large-caps;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  color: rgb(138, 235, 202);
+} 
+h2 {
+  text-align: center;
+  font-size: 35px; 
+  margin: 0;
+  padding: 0;
+  font-variant: large-caps;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  color: silver;
+}
+h3 {
+  font-size: 30px; 
+  margin: 0;
+  padding: 0;
+  font-variant: large-caps;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  color: silver;
+}
+p {
+  font-size: 18px; 
+  font-family: Apple Chancery, cursive;
+  color: white;
+}
+
+
+
+
+li {
+  list-style:none;
+  font-size: 15px;
+  float: center;
+  color: red; 
+  background-color: silver;
+}
+.tabs {  
+  margin:0 auto;
+  padding: 10 px 0 10px;
+  background-color: rgb(138, 235, 202); 
+ }
+ 
